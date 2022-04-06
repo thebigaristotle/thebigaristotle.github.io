@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Gesko",
+    "title": "Secret Diary of Xi Zinping",
     "home_page_url": "https://p0wex.github.io/Gesko/",
     "feed_url": "https://p0wex.github.io/Gesko/feed.json",
-    "description": "just a minimalist, personal blog",
+    "description": "This is a digital archive of the long hidden diary of President Xi Zinping. Not to be confused with Chairman Xi Jinping. ",
     "icon": "https://p0wex.github.io/Gesko/apple-touch-icon.png",
     "favicon": "https://p0wex.github.io/Gesko/favicon.ico",
     "expired": false,

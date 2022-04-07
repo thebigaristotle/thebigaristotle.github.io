@@ -4,13 +4,40 @@
  <title>Secret Diary of Xi Zinping</title>
  <link href="https://thebigaristotle.github.io/atom.xml" rel="self"/>
  <link href="https://thebigaristotle.github.io/"/>
- <updated>2022-04-07T01:50:48+02:00</updated>
+ <updated>2022-04-07T02:05:34+02:00</updated>
  <id>https://thebigaristotle.github.io</id>
  <author>
    <name>Xi Zinping</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Sample first blog post</title>
+   <link href="https://thebigaristotle.github.io/2022/04/06/sample-first-blog-post"/>
+   <updated>2022-04-06T00:00:00+02:00</updated>
+   <id>https://thebigaristotle.github.io/2022/04/06/sample-first-blog-post</id>
+   <content type="html">&lt;p&gt;I was deep in slumber last night when all of a sudden Joe called me. I was like huh? Why is this old raising hitting me up at 2 AM?&lt;/p&gt;
+
+&lt;p&gt;I picked up.&lt;/p&gt;
+
+&lt;p&gt;JB: “Hey Jill … Jill. Jill I lost my dentures where are they?”&lt;/p&gt;
+
+&lt;p&gt;Me: “Goddammit Joe. We already did this once. I’m not Jill alright, you know this!”&lt;/p&gt;
+
+&lt;p&gt;JB: “Oh stop playing with me Jill. It’s way too late for this. Please, grow up”&lt;/p&gt;
+
+&lt;p&gt;Me: “Hey, I’m a big boy now. You can’t just mess around with me and expect to get away with it!”&lt;/p&gt;
+
+&lt;p&gt;JB: “I love when you get aggressive, Jill ;) Gets partner down there fired up to at least 20 degrees if you know what I mean.”&lt;/p&gt;
+
+&lt;p&gt;Me: “You are disgusting Joe. Don’t call this number again, or I will literally nuke the entire east coast.”&lt;/p&gt;
+
+&lt;p&gt;JB: “aghh … zzzz …. aghhh …. zzzz”&lt;/p&gt;
+
+&lt;p&gt;Me: “Did you fall asleep Joe? Seriously! Sigh. Well, till next Monday I suppose.”&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Difference between font formats</title>

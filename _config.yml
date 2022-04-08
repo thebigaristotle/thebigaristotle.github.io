@@ -1,8 +1,8 @@
-site: Secret Diary of Xi Zinping
-title: Secret Diary of Xi Zinping
-greetings: Secret Diary of Xi Zinping
+site: Secret Diary of Lebron James
+title: Secret Diary of Lebron James
+greetings: Secret Diary of Lebron James 🏀
 description: >-
-  This is a digital archive of the long hidden diary of Xi Zinping, the General Secretary of the CCP, President of China, and Chairman of the military. Not to be confused with Xi Jinping. 
+  This is the secret, hidden diary of 4 time NBA MVP, 4 time NBA Champion and Finals MVP, 2 time Olympic Gold Medalist, and Hollywood star Lebron James. Also known as "The L-train", "The Akron Hammer", "Just a Kid from Akron", and of course, "King James".
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/p0wex/Gesko # site repo [optional]
@@ -10,7 +10,7 @@ data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: Xi Zinping
+  name: Lebron James
   bio: real diary entries, written by myself
   userpicture: 
   username: # general username

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Secret Diary of Lebron James</title>
+ <title>The Writings of Kabir Sharma</title>
  <link href="https://thebigaristotle.github.io/atom.xml" rel="self"/>
  <link href="https://thebigaristotle.github.io/"/>
- <updated>2022-04-14T15:06:48+02:00</updated>
+ <updated>2022-04-14T15:07:38+02:00</updated>
  <id>https://thebigaristotle.github.io</id>
  <author>
    <name>Lebron James</name>
